@@ -1,6 +1,16 @@
-Database Lounge Tokyo
-======================
+# Database Lounge Tokyo とは？
+「Databaseの幅広い話題を語れる場が欲しい！」ということで企画した勉強会＆交流会＆飲み会(?)です。
 
-Database Lounge Tokyo is a database community at Tokyo.
+# どんな話をするの？
+トランザクションの分類のような教科書的な基礎知識から、バックアップなどの運用の工夫やSQLのあれこれまで、幅広く対象としたいと思っています。
 
-Community page is [here](http://database-lounge-tokyo.connpass.com/)
+# Loungeってどういうこと?
+「仕事帰りにお酒を飲みながらDBについて語る場所」というイメージでこの名前を選びました。
+発表者vs聴講者の従来のセミナー形式の勉強会より、よりエンジニア同士の交流に重きを置いた場にしたいと考えています。
+
+会場の前方で発表者が話していて、もし話の内容に興味がなければ、会場の後ろのほうで自分たちの興味のあることについてピザでも食べながら語り合って貰えればOK、といった雰囲気でゆるーくいきましょう！
+
+# ご相談・ご質問
+本グループに関する質問等は、[@ooyamams](https://twitter.com/ooyamams1987)または[@sawada_masahiko](https://twitter.com/sawada_masahiko)までお願いいたします。
+
+connpass上のコミュニティページは[こちら](http://database-lounge-tokyo.connpass.com/)
