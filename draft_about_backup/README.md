@@ -26,6 +26,7 @@
 
 - 論理バックアップのパラレルリストアの仕組みってあります？
   - MySQLだと今のところMyDumper一択
+  - PostgreSQLだとpg_restoreでパラレルリストア可能
 
 ## for Oracle 
 
@@ -35,3 +36,5 @@
 ## for PostgreSQL
 
 - `SELECT pg_start_backup()` ってした時に中では何が起こってるの？
+
+- `pg_start_backup`と`pg_stop_backup`の間にクラッシュした場合はどうなるの？
