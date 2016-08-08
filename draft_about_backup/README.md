@@ -1,3 +1,16 @@
+# タイムテーブル案
+
+|時間  |やること| 
+|------|--------|
+|19:15|Lighting Talks #1|
+|19:25|Lighting Talks #2|
+|19:35|Lighting Talks #3|
+|19:45|休憩|
+|20:00|渡部さんによるバックアップ・リストアの話(仮)|
+|20:30|パネルディスカッション|
+|21:30|ビアバッシュ|
+|23:00|閉場|
+
 # MySQLからOracle, PostgreSQLに聞きたい
 
 - Oracle, PostgreSQLのバックアップの知識は [バックアップと障害復旧から考えるOracle Database, MySQL, PostgreSQLの違い](http://www.slideshare.net/ryotawatabe/2016715-jpoug-rdbms-backup-architecture) を読んだくらいしかないです
